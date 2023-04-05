@@ -1,10 +1,15 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<strong> Star Wars </strong><br />
+
+O projeto consiste em desenvolver uma lista com filtros de planetas do universo de Star Wars.<br>
+Foi desenvolvido utilizando _HTML, CSS, React Hooks e Context API_.
+
+  <summary><strong>Rodando o projeto localmente‼️ </strong></summary><br />
+  
+  1. Clone o repositório
+   - `git clone git@github.com:AmandaPtela/project-starwars.git`
+    
+  2. Instale as dependências e inicialize o projeto
+  - Instale as dependências:
+    - `npm install`
+  - Inicialize o projeto:
+    - `npm start` (uma nova página deve abrir no seu navegador com o projeto)
